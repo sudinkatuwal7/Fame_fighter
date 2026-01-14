@@ -1,3 +1,4 @@
+# duplicate_main.py is a file that uses functions, global variables, and boolean values to make the most out of the code
 # Display art
 from art import logo, vs
 from game_data import data
@@ -62,5 +63,6 @@ while game_should_continue:
     else:
         print(f"Sorry, that's wrong. Final score: {score}.")
         game_should_continue = False
+
 
 
