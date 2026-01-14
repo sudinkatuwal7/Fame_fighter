@@ -6,6 +6,12 @@ data = [
         'country': 'United States'
     },
     {
+        'name': 'Sudin',
+        'follower_count': 1000,
+        'description': 'Actor',
+        'country': 'Nepal'   
+    },
+    {
         'name': 'Cristiano Ronaldo',
         'follower_count': 215,
         'description': 'Footballer',
@@ -300,3 +306,4 @@ data = [
         'country': 'United States'
     }
 ]
+
