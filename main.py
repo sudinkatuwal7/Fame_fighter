@@ -1,3 +1,5 @@
+# main.py is a simple version of the Fame_fighter game with simple-to-understand code
+
 import random
 from art import logo, vs
 from game_data import data
@@ -49,4 +51,5 @@ while not continue_game :
         continue_game = True
         print("\n" * 20)
         print(f"Sorry, that's wrong. Final score: {score}")
+
 
